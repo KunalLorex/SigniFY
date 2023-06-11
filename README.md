@@ -16,7 +16,7 @@ The flutter app has three options for the user on the home page (Login, Register
 
 Users can simply use their email and password to register an account. In the backend, a new firebase user will be created using that information.
 When the user logs in with their credentials, the app will receive an unique userid that can be used to retrive relevant information from the backend.
-
+ 
 ### Camera Page
 
 This page allows to record and convert sign language displayed by a person into text that the user can read in real time. The square box will change color to provide feedback based on the confidence score and display helpful messages like "Keep Steady for accurate results".
